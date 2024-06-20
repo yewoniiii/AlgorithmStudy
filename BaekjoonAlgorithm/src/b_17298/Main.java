@@ -13,6 +13,7 @@ public class Main {
         int[] NGE = new int[N];
         StringTokenizer st = new StringTokenizer(br.readLine());
         
+        // 3, 5, 2, 7
         for (int i = 0; i < N; i++) {
             A[i] = Integer.parseInt(st.nextToken());
         }
