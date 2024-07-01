@@ -25,7 +25,7 @@ public class Main {
 			}
 		}
 		
-		// 정상
+		// 적록색약이 아닌 사람 배열 
 		int normal = 0; // dfs 호출 횟수 누적
 		for (int i=0; i<N; i++) {
 			for (int j=0; j<N; j++) {
